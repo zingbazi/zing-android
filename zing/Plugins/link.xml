@@ -1,0 +1,5 @@
+<linker>
+  <assembly fullname="mscorlib">
+    <type fullname="System.Globalization.CultureInfo" preserve="all"/>
+  </assembly>
+</linker>
